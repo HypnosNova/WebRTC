@@ -1,4 +1,4 @@
-It is strongly suggested to try [RTCMultiConnection](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/RTCMultiConnection) instead.
+ï»¿It is strongly suggested to try [RTCMultiConnection](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/RTCMultiConnection) instead.
 
 =
 
@@ -45,9 +45,9 @@ rtcDataConnection.send( file || data || 'text' );
 
 #### Features
 
-1. Share files of any size — directly
+1. Share files of any size ?directly
 2. Share text messages of any length
-3. Share any kind of data — directly
+3. Share any kind of data ?directly
 
 =
 
