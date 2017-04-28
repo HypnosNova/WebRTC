@@ -1,4 +1,4 @@
-# [Firefox Extensions](https://github.com/muaz-khan/Firefox-Extensions)
+﻿# [Firefox Extensions](https://github.com/muaz-khan/Firefox-Extensions)
 
 > Enable screen capturing in Firefox for both localhost/127.0.0.1 and `https://www.webrtc-experiment.com` pages.
 >

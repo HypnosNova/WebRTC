@@ -1,4 +1,4 @@
-#### Non-Functional i.e. "experimental" experiments
+﻿#### Non-Functional i.e. "experimental" experiments
 
 These experiments are earlier tests of expected updates and latest releases i.e. upcoming features.
 

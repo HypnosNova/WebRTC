@@ -1,4 +1,4 @@
-# [getUserMedia Adatper](https://github.com/muaz-khan/gumadapter)
+﻿# [getUserMedia Adatper](https://github.com/muaz-khan/gumadapter)
 
 Copyrights goes to:
 

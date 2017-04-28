@@ -1,4 +1,4 @@
-## MediaStreamRecorder/FileSystem
+﻿## MediaStreamRecorder/FileSystem
 
 This directory contains modules used to read/write files on disk.
 

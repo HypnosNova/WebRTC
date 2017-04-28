@@ -1,4 +1,4 @@
-# MultiRTC / A demo application for [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection)
+﻿# MultiRTC / A demo application for [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection)
 
 This demo application runs similarly like Skype. However it isn't having contacts section.
 

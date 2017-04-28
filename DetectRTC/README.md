@@ -1,4 +1,4 @@
-# [DetectRTC.js](https://github.com/muaz-khan/DetectRTC) / [Try LIVE Demo](https://www.webrtc-experiment.com/DetectRTC/)
+﻿# [DetectRTC.js](https://github.com/muaz-khan/DetectRTC) / [Try LIVE Demo](https://www.webrtc-experiment.com/DetectRTC/)
 
 [![npm](https://img.shields.io/npm/v/detectrtc.svg)](https://npmjs.org/package/detectrtc) [![downloads](https://img.shields.io/npm/dm/detectrtc.svg)](https://npmjs.org/package/detectrtc)  [![Build Status: Linux](https://travis-ci.org/muaz-khan/DetectRTC.png?branch=master)](https://travis-ci.org/muaz-khan/DetectRTC)
 

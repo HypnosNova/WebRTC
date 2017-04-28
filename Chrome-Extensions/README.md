@@ -1,4 +1,4 @@
-# WebRTC [Chrome Extensions](https://github.com/muaz-khan/Chrome-Extensions)
+﻿# WebRTC [Chrome Extensions](https://github.com/muaz-khan/Chrome-Extensions)
 
 1. Share full screen or any app's screen in 1080p or 720p format
 2. Record full screen (1920p, 1080p, 720p) or any app's screen

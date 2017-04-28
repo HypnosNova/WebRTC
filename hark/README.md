@@ -1,4 +1,4 @@
-## Hark.js is part of <a href="http://www.RTCMultiConnection.org/">RTCMultiConnection.js</a>
+﻿## Hark.js is part of <a href="http://www.RTCMultiConnection.org/">RTCMultiConnection.js</a>
 
 ```
 // original source code is taken from:

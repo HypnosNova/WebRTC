@@ -1,4 +1,4 @@
-## MediaStreamRecorder/demos
+﻿## MediaStreamRecorder/demos
 
 This directory contains demos using `MediaStreamRecorder.js` to record audio/video streams.
 

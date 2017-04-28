@@ -1,4 +1,4 @@
-# getScreenId | Capture Screen on Any Domain!
+﻿# getScreenId | Capture Screen on Any Domain!
 
 * Live Demo: https://www.webrtc-experiment.com/getScreenId/
 * YouTube video: https://www.youtube.com/watch?v=UHrsfe9RYAQ

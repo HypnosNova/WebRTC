@@ -1,4 +1,4 @@
-## MediaStreamRecorder/VideoStreamRecorder
+﻿## MediaStreamRecorder/VideoStreamRecorder
 
 This directory contains modules used to record video stream.
 

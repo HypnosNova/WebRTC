@@ -1,4 +1,4 @@
-##### Audio+Video Recording using MediaRecorder / [Demo](https://www.webrtc-experiment.com/AudioVideoRecorder/)
+﻿##### Audio+Video Recording using MediaRecorder / [Demo](https://www.webrtc-experiment.com/AudioVideoRecorder/)
 
 Only audio-relevant parts are supported in the moment. Audio+Video recording coming soon.
 

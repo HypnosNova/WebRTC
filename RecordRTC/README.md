@@ -1,4 +1,4 @@
-# RecordRTC: WebRTC JavaScript Library for Audio+Video+Screen Recording
+﻿# RecordRTC: WebRTC JavaScript Library for Audio+Video+Screen Recording
 
 # Demo: https://www.webrtc-experiment.com/RecordRTC/
 

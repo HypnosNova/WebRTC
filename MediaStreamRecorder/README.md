@@ -1,4 +1,4 @@
-# [MediaStreamRecorder.js](https://github.com/streamproc/MediaStreamRecorder) - [Demos](https://www.webrtc-experiment.com/msr/)
+﻿# [MediaStreamRecorder.js](https://github.com/streamproc/MediaStreamRecorder) - [Demos](https://www.webrtc-experiment.com/msr/)
 
 [![npm](https://img.shields.io/npm/v/msr.svg)](https://npmjs.org/package/msr) [![downloads](https://img.shields.io/npm/dm/msr.svg)](https://npmjs.org/package/msr) [![Build Status: Linux](https://travis-ci.org/streamproc/MediaStreamRecorder.png?branch=master)](https://travis-ci.org/streamproc/MediaStreamRecorder)
 

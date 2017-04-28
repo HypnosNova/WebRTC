@@ -1,4 +1,4 @@
-# Record Entire Meeting using Pure JavaScript API!
+﻿# Record Entire Meeting using Pure JavaScript API!
 
 [![npm](https://img.shields.io/npm/v/record-entire-meeting.svg)](https://npmjs.org/package/record-entire-meeting) [![downloads](https://img.shields.io/npm/dm/record-entire-meeting.svg)](https://npmjs.org/package/record-entire-meeting)
 

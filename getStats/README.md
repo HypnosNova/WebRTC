@@ -1,4 +1,4 @@
-# [getStats.js](https://github.com/muaz-khan/getStats) / [Demo](https://www.webrtc-experiment.com/getStats/)
+﻿# [getStats.js](https://github.com/muaz-khan/getStats) / [Demo](https://www.webrtc-experiment.com/getStats/)
 
 [![npm](https://img.shields.io/npm/v/getstats.svg)](https://npmjs.org/package/getstats) [![downloads](https://img.shields.io/npm/dm/getstats.svg)](https://npmjs.org/package/getstats)
 

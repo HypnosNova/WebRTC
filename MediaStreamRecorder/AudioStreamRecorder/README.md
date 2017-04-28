@@ -1,4 +1,4 @@
-## MediaStreamRecorder/AudioStreamRecorder
+﻿## MediaStreamRecorder/AudioStreamRecorder
 
 This directory contains modules used to record audio stream.
 

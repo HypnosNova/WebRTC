@@ -1,4 +1,4 @@
-## [Conversation.js](https://github.com/muaz-khan/Conversation.js) runs top over [RTCMultiConnection.js](http://www.RTCMultiConnection.org/)  [![npm](https://img.shields.io/npm/v/conversationjs.svg)](https://npmjs.org/package/conversationjs) [![downloads](https://img.shields.io/npm/dm/conversationjs.svg)](https://npmjs.org/package/conversationjs)
+﻿## [Conversation.js](https://github.com/muaz-khan/Conversation.js) runs top over [RTCMultiConnection.js](http://www.RTCMultiConnection.org/)  [![npm](https://img.shields.io/npm/v/conversationjs.svg)](https://npmjs.org/package/conversationjs) [![downloads](https://img.shields.io/npm/dm/conversationjs.svg)](https://npmjs.org/package/conversationjs)
 
 Conversation.js is inspired by skype; and it provides simple events-like API to manage conversations, enable/disable media devices; add/download files; and do anything supported by Skype.
 

@@ -1,4 +1,4 @@
-# Enable Screen Capturing using [Firefox Extensions API](https://github.com/muaz-khan/Firefox-Extensions)
+﻿# Enable Screen Capturing using [Firefox Extensions API](https://github.com/muaz-khan/Firefox-Extensions)
 
 Enable screen capturing using Firefox (for https://www.webrtc-experiment.com demos only):
 
