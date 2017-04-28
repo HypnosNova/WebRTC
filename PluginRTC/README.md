@@ -1,4 +1,4 @@
-## [PluginRTC](https://github.com/muaz-khan/PluginRTC): IE/Safari Plugins compatible WebRTC-Experiments
+ï»¿## [PluginRTC](https://github.com/muaz-khan/PluginRTC): IE/Safari Plugins compatible WebRTC-Experiments
 
 This repository is a sub-part of: https://github.com/muaz-khan/WebRTC-Experiment
 
@@ -131,9 +131,9 @@ sendToRemoteParty({
 
 ### Muaz Khan
 
-1. Personal Webpage — http://www.muazkhan.com
-2. Email — muazkh@gmail.com
-3. Twitter — https://twitter.com/muazkh and https://twitter.com/WebRTCWeb
+1. Personal Webpage ?http://www.muazkhan.com
+2. Email ?muazkh@gmail.com
+3. Twitter ?https://twitter.com/muazkh and https://twitter.com/WebRTCWeb
 
 =
 
