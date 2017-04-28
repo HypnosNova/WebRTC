@@ -1,4 +1,4 @@
-# [DataChannel.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/DataChannel) client using [Reliable Signaler](https://github.com/muaz-khan/Reliable-Signaler)
+﻿# [DataChannel.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/DataChannel) client using [Reliable Signaler](https://github.com/muaz-khan/Reliable-Signaler)
 
 [![npm](https://img.shields.io/npm/v/datachannel-client.svg)](https://npmjs.org/package/datachannel-client) [![downloads](https://img.shields.io/npm/dm/datachannel-client.svg)](https://npmjs.org/package/datachannel-client)
 

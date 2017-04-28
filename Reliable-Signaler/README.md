@@ -1,4 +1,4 @@
-# Reliable Signaler  [![npm](https://img.shields.io/npm/v/reliable-signaler.svg)](https://npmjs.org/package/reliable-signaler) [![downloads](https://img.shields.io/npm/dm/reliable-signaler.svg)](https://npmjs.org/package/reliable-signaler)
+﻿# Reliable Signaler  [![npm](https://img.shields.io/npm/v/reliable-signaler.svg)](https://npmjs.org/package/reliable-signaler) [![downloads](https://img.shields.io/npm/dm/reliable-signaler.svg)](https://npmjs.org/package/reliable-signaler)
 
 It is a node.js and socket.io based reliable signaling implementation. Remember, reliable doesn't mean "scalable"; reliable simply means that it auto reconnects in any kind of failure or internet disconnect. It is having following features:
 

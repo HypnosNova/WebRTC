@@ -1,4 +1,4 @@
-Ducks Game
+﻿Ducks Game
 ==========
 
 Made with [GLGE](http://www.glge.org/). Uses [jQuery](http://jquery.com/).

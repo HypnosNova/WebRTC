@@ -1,4 +1,4 @@
-# RTCMultiConnection client using [Reliable Signaler](https://github.com/muaz-khan/Reliable-Signaler)
+﻿# RTCMultiConnection client using [Reliable Signaler](https://github.com/muaz-khan/Reliable-Signaler)
 
 [![npm](https://img.shields.io/npm/v/rtcmulticonnection-client.svg)](https://npmjs.org/package/rtcmulticonnection-client) [![downloads](https://img.shields.io/npm/dm/rtcmulticonnection-client.svg)](https://npmjs.org/package/rtcmulticonnection-client)
 

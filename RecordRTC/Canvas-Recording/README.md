@@ -1,4 +1,4 @@
-## Record Entire WebPage or Canvas2D
+﻿## Record Entire WebPage or Canvas2D
 
 Features:
 
