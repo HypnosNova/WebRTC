@@ -1,4 +1,4 @@
-#### [WebRTC](https://www.webrtc-experiment.com/) [Part of Screen Sharing Demos](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/part-of-screen-sharing) / [Demos](https://www.webrtc-experiment.com/part-of-screen-sharing/)
+ï»¿#### [WebRTC](https://www.webrtc-experiment.com/) [Part of Screen Sharing Demos](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/part-of-screen-sharing) / [Demos](https://www.webrtc-experiment.com/part-of-screen-sharing/)
 
 Another realtime/p2p working demo: 
 
@@ -6,8 +6,8 @@ Another realtime/p2p working demo:
 
 Files:
 
-* [screenshot-dev.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/part-of-screen-sharing/screenshot-dev.js) — developers version
-* [screenshot.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/part-of-screen-sharing/screenshot.js) — minified
+* [screenshot-dev.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/part-of-screen-sharing/screenshot-dev.js) ?developers version
+* [screenshot.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/part-of-screen-sharing/screenshot.js) ?minified
 
 ```html
 <script src="//cdn.webrtc-experiment.com/screenshot.js"></script>
