@@ -1,4 +1,4 @@
-### FileBufferReader.js is recommended:
+﻿### FileBufferReader.js is recommended:
 
 * https://github.com/muaz-khan/FileBufferReader
 

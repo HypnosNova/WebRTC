@@ -1,4 +1,4 @@
-Live Demo: https://rtcmulticonnection.herokuapp.com/demos/SSEConnection.html
+﻿Live Demo: https://rtcmulticonnection.herokuapp.com/demos/SSEConnection.html
 
 Server Sent Events (SSE) are used to setup WebRTC peer-to-peer connections.
 

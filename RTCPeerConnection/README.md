@@ -1,4 +1,4 @@
-##### RTCPeerConnection Documentation
+﻿##### RTCPeerConnection Documentation
 
 **RTCPeerConnection.js** is a js-wrapper library for **RTCWeb APIs**. 
 

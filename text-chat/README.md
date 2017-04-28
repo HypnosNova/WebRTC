@@ -1,4 +1,4 @@
-#### WebRTC Text Chat i.e. Data Sharing / [Demo](https://www.webrtc-experiment.com/text-chat/)
+﻿#### WebRTC Text Chat i.e. Data Sharing / [Demo](https://www.webrtc-experiment.com/text-chat/)
 
 `DataConnection.js` library lets you:
 

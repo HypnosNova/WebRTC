@@ -1,4 +1,4 @@
-# RTCMultiConnection Development files
+﻿# RTCMultiConnection Development files
 
 These are small pieces of JavaScript files that are used to generate `RTCMultiConnection.js`!!!
 

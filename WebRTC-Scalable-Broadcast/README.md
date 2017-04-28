@@ -1,4 +1,4 @@
-# [WebRTC Scalable Broadcast](https://github.com/muaz-khan/WebRTC-Scalable-Broadcast)
+﻿# [WebRTC Scalable Broadcast](https://github.com/muaz-khan/WebRTC-Scalable-Broadcast)
 
 Scalable WebRTC peer-to-peer broadcasting demo.
 

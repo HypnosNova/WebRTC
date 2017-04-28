@@ -1,4 +1,4 @@
-# [Translator.js](https://github.com/muaz-khan/Translator) | WebRTC Voice & Text Translator
+﻿# [Translator.js](https://github.com/muaz-khan/Translator) | WebRTC Voice & Text Translator
 
 # Demo: https://www.webrtc-experiment.com/Translator/
 
